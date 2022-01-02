@@ -1,1 +1,1 @@
-# Connect-Four-GUI-Project
+# Connect Four Game
